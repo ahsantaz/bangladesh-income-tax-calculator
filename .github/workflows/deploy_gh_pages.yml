@@ -21,9 +21,9 @@ jobs:
         run: yarn install
       - name: Setup git config
         run: |
-          git config --local user.name "abdify"
-          git config --local user.email "abdullah.fahimm08@gmail.com"
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/ahsantaz/Bangladesh-Tax-Caculator-2023-2024.git
+          git config --local user.name "ahsantaz"
+          git config --local user.email "tazbabu420@gmail.com"
+          git remote set-url origin https://x-access-token:${{ secrets.ACCESS_TOKEN }}@github.com/ahsantaz/Bangladesh-Tax-Caculator-2023-2024.git
       - name: Build & deploy
         run: |
           yarn run build
