@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/bangladesh-income-tax-calculator/index.html/static/css/main.73ec6cc1.css",
-    "main.js": "/bangladesh-income-tax-calculator/index.html/static/js/main.42a9dcdf.js",
-    "index.html": "/bangladesh-income-tax-calculator/index.html/index.html",
-    "main.73ec6cc1.css.map": "/bangladesh-income-tax-calculator/index.html/static/css/main.73ec6cc1.css.map",
-    "main.42a9dcdf.js.map": "/bangladesh-income-tax-calculator/index.html/static/js/main.42a9dcdf.js.map"
+    "main.css": "/bangladesh-income-tax-calculator/static/css/main.4169f80c.css",
+    "main.js": "/bangladesh-income-tax-calculator/static/js/main.0acba11f.js",
+    "index.html": "/bangladesh-income-tax-calculator/index.html",
+    "main.4169f80c.css.map": "/bangladesh-income-tax-calculator/static/css/main.4169f80c.css.map",
+    "main.0acba11f.js.map": "/bangladesh-income-tax-calculator/static/js/main.0acba11f.js.map"
   },
   "entrypoints": [
-    "static/css/main.73ec6cc1.css",
-    "static/js/main.42a9dcdf.js"
+    "static/css/main.4169f80c.css",
+    "static/js/main.0acba11f.js"
   ]
 }
