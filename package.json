@@ -2,7 +2,7 @@
     "name": "bd-income-tax-calculator",
     "version": "0.1.0",
     "main": "index.js",
-    "homepage": "https://ahsantaz.github.io/Bangladesh-Tax-Caculator-2023-2024",
+    "homepage": "https://ahsantaz.github.io/bangladesh-income-tax-calculator",
     "private": false,
     "dependencies": {
         "@testing-library/jest-dom": "^5.11.4",
